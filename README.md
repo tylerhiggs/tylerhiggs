@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tylerhiggs
-- 👀 I’m a senior at MIT studying computer science
+- 👀 I recently graduated from MIT studying computer science
+- I have been working with a startup called Vividy 
 
 <!---
 tylerhiggs/tylerhiggs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
