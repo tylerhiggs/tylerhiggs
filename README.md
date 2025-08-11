@@ -1,11 +1,45 @@
-# 💫 About Me:
-👋 Hi, I’m @tylerhiggs<br>👀 I graduated from MIT studying computer science<br>🔭 I'm currently working on a mortage vs. rent retirement calculator<br>
+# Hi, I'm Tyler 👋  
 
+I'm a **Full-Stack Software Engineer** with 3 years of professional experience building scalable, performant, and accessible web applications.  
+Educated at **MIT (B.S. in Computer Science)**, I enjoy working across the stack — from designing clean, responsive UIs to implementing secure, efficient backend systems.  
 
-# 💻 Tech Stack:
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tylerhiggs&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhiggs&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Tools  
+**Languages:** TypeScript, JavaScript, Python, C#, SQL, Rust  
+**Frameworks & Libraries:** React, Next, Vue, Nuxt, Angular, Django, .NET, GraphQL, Nx, Tailwind CSS  
+**Databases:** PostgreSQL, Firebase, SQLite  
+**Tools & Platforms:** GCP, Azure, Docker, GitHub Actions, REST APIs  
+**Testing:** xUnit, Testing Library (React + Angular), PyTest, Poetry  
+
+---
+
+## 💼 Professional Highlights  
+- **Modernized frontends**: Led AngularJS → Angular migration, creating best practices and documentation to accelerate onboarding.  
+- **Performance gains**: Rebuilt a major React/Firebase app with Typescript, Django, & GraphQL → **10× faster load times**.  
+- **Data engineering**: Migrated & cleansed 1 TB of customer data to PostgreSQL, improving query performance & integrity.  
+- **Accessibility leadership**: Applied WCAG best practices to new and existing components, improving usability for all users.  
+
+---
+
+## 📂 Featured Projects  
+### [Extended Markdown Editor](https://md-me-dot-dev.nuxt.dev/) + [GitHub](https://github.com/tylerhiggs/mdxNuxt)
+A syntax-highlighted markdown editor & previewer in the browser with Google OAuth, SQLite storage, SSR-optimized public pages using Nuxt, and custom markdown components.  
+
+### [Mortgage & Rent Retirement Calculator](https://mortgage-and-rent-calculator.web.app/) + [GitHub](https://github.com/tylerhiggs/mortgage-rent-calculator)
+Vue app helping users model rent vs. buy decisions based on retirement projections.  
+
+### [Sudoku Web App](https://sudoku-6fbd2.web.app/) + [GitHub](https://github.com/tylerhiggs/sudoku-ng)
+Angular-based Sudoku game with puzzles generated by a Rust backend, hosted on Firebase with IndexedDB save support.  
+
+---
+
+## 📫 Let's Connect  
+- **LinkedIn:** [linkedin.com/in/tyler-higgs-bba80614a](https://www.linkedin.com/in/tyler-higgs-bba80614a/)  
+- **Email:** thiggs911@gmail.com  
+- **Resume:** [Google Drive](https://drive.google.com/file/d/1HYpMIKmC3j0OBymrgLdcvq6Apd3nG_H0/view?usp=sharing) 
+
+---
+
+💡 *I’m currently seeking new opportunities as a software engineer — especially in roles where I can contribute to both frontend and backend development, improve performance, and enhance accessibility.*
+
